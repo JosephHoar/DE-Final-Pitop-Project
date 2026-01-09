@@ -5,3 +5,6 @@ This project is meant to be a detection system which will send an alert when the
 
 <img width="733" height="594" alt="Screenshot 2026-01-09 143158" src="https://github.com/user-attachments/assets/746a457c-663d-4e05-b592-f5053c120de9" />
 <img width="1052" height="668" alt="Screenshot 2026-01-09 143232" src="https://github.com/user-attachments/assets/0c927879-bf85-421c-87a7-8e69882a9a8c" />
+<img width="262" height="341" alt="Screenshot 2026-01-09 143704" src="https://github.com/user-attachments/assets/d8fb4881-5a76-4847-8bc6-c8e79e42b10f" />
+
+<img width="250" height="187" alt="Screenshot 2026-01-09 143740" src="https://github.com/user-attachments/assets/d0ec1625-069c-47d8-9982-735a91ab5145" />
