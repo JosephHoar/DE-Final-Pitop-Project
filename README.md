@@ -10,8 +10,7 @@ This project is meant to be a detection system which will send an alert when the
 
 <img width="250" height="187" alt="Screenshot 2026-01-09 143740" src="https://github.com/user-attachments/assets/d0ec1625-069c-47d8-9982-735a91ab5145" />
 
-
-
+Demonstration: watch top to bottom (full video was too big)
 
 https://github.com/user-attachments/assets/4ed70f8e-a83e-4e7c-9fe9-e6b7c05f579b
 
