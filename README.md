@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/6272a4c5-3028-4757-995b-2d19f2d5f983
 # DE-Final-Pitop-Project
 Repo for Digital Electronics final project 
 
