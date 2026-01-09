@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/6272a4c5-3028-4757-995b-2d19f2d5f983
 # DE-Final-Pitop-Project
 Repo for Digital Electronics final project 
 
@@ -8,3 +10,23 @@ This project is meant to be a detection system which will send an alert when the
 <img width="262" height="341" alt="Screenshot 2026-01-09 143704" src="https://github.com/user-attachments/assets/d8fb4881-5a76-4847-8bc6-c8e79e42b10f" />
 
 <img width="250" height="187" alt="Screenshot 2026-01-09 143740" src="https://github.com/user-attachments/assets/d0ec1625-069c-47d8-9982-735a91ab5145" />
+
+
+
+
+https://github.com/user-attachments/assets/4ed70f8e-a83e-4e7c-9fe9-e6b7c05f579b
+
+https://github.com/user-attachments/assets/ab8c25e4-8f3d-4e75-96bf-2fbc396781e8
+
+https://github.com/user-attachments/assets/1519b0c9-399c-458c-9dc8-2ed23516fedcq
+
+https://github.com/user-attachments/assets/bb21aaa4-e932-43ff-b4f0-0c00461a20d3
+
+
+
+
+
+
+
+
+
