@@ -26,6 +26,41 @@ Next it has a display that not only helps indicate the current state in addition
 
 Furthermore it has the abiltity to take in user inputs for a light and sound control as well as a respective range for each. This creates a set range where neither reading can exceed the control values plus the range nor can they go below the control value minus the range.
 
+## **Code desciption:**
+Designations set for sensors
+
+Variables for readings set
+
+Variable for ranges and controls set to -1
+
+Check to make sure the pitop is currently on and hasn’t been turned off
+
+Display as being idle
+
+If button is pressed enter the active state
+
+While active display so and turn on the green LED.
+
+Prompt the user to enter their desired value for the light control, sound control, light range and sound range in that order
+
+When all 4 control and ranges are no longer -1 switch to set state
+
+While set display set and turn on the yellow LED
+
+Display the readings from the sensors on the screen
+
+If button is pressed go back to idle state(controls and ranges set back to -1 both LEDs turn off and display idle)
+
+Check the display values and switch to alert when one goes outside the range
+
+While alert continue to display the sensor readings
+
+Turn on the red LED as well as the buzzer and display alert
+
+If both readings re enter the range switch back to being set(turn off buzzer, red LED and go back to displaying set)
+
+If button is pressed go back to idle state(turn off everything, set controls and ranges to -1 and display idle)
+
 ## **Challenges and lessons learned:**
 
 Challenges I initially faced included the optimization because iniitially I had a lot of redundant code for the swtiching of states, espescially for switching from set or alert back to idle. 
