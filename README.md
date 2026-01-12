@@ -5,6 +5,9 @@ Repo for Digital Electronics final project
 ## **General description:**
 This project is meant to be a detection system which will send an alert when the outside conditions are too high or too low. At first when it is turned on it will be in an idle state where it is on but it is not actively monitoring the area around it. Then when a button is pressed it will enter an "active" state. The active state is meant as a transitional state for one to enter in their desired control values, being the light control, the sound control and their respective ranges. Once all the values have been inputted the device will then enter a "set" state. In the set state it is actively monitoring the area around it with a light and sound sensor and displaying a reading for both. If the button to switch the device from idle to active is pressed again during the set state the device will go back to being idle. When the sensor detects either the light or the sound value going outside the range it enters an "alert" state. During the alert state the device releases an alarm indicating that one of the values is outside the range. However if both of the sensors detect that the light and sound are both within the desired range again it will re enter the set state from the alert state. Lastly if the button is pressed during the alert state it will automatically reset everything and go back to the idle state
 
+## **Problem to be solved:**
+Create a device that monitors conditions in a certain area and sends an alert when conditions are too far from a certain control value. Used to help with the maintenance of things that may need a specific set of conditions within a specific range. I.e a type of plant that may require certain light conditions to be healthy. 
+
 ## **The Sensors and attachments:**
 
 First there are LEDs that indicate what state the system is in. No LEDs mean it is either off or idle, the green LED means it is "active", the green and yellow LED together indicates it is "set", and the red, yellow and green LEDs all together means it is "alert".
@@ -25,6 +28,34 @@ Secondly it has the ability to actively monitor the readings of the light and so
 Next it has a display that not only helps indicate the current state in addition to the indicators from the LEDs, but also displays the readings for both the light and sound values when either set or alert.
 
 Furthermore it has the abiltity to take in user inputs for a light and sound control as well as a respective range for each. This creates a set range where neither reading can exceed the control values plus the range nor can they go below the control value minus the range.
+
+## **Timeline/Outline:**
+
+Make the text display idle when initially turned on
+
+Add the active state that can be initiated by pressing a button
+
+Add active state indicators(green LED + active display)
+
+Add the ability to set the control values and the ranges through prompts on the consol
+
+Add the set state when values have been set
+
+Add set state indicators(yellow LED + set display)
+
+Make set state be able to switch back to idle when button is pressed again
+
+Add the variables for the light and sound sensors
+
+Add displays of the light and sounds readings on the miniscreen
+
+Add alert state and ability to become alert when the readings exit the range
+
+Add alert state indicators(red LED, Buzzer, alert display)
+
+Make alert state go to idle when button is pressed again
+
+Add ability to switch back to set when the readings re enter the set range
 
 ## **Code desciption:**
 Designations set for sensors
